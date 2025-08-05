@@ -1,3 +1,4 @@
 Name   :  Gorle Meghana
 Course :  Bachelor of computer applications
 College:  Aditya Degree College  
+One thing that I learned about github is , it is a platform to build and ship software  on a single colloborative space.
